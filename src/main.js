@@ -29,4 +29,6 @@ function getPrimes(value) {
     return arrayList;
 }
 
-console.log(getPrimes(10));
+console.log(getPrimes(2));
+
+module.exports = getPrimes;
