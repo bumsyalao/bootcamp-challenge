@@ -1,0 +1,25 @@
+{
+  "name": "getprime",
+  "version": "1.0.0",
+  "description": "to get prime numbers",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js",
+    "main": "node src/main.js"
+  },
+  "keywords": [
+    "prime"
+  ],
+  "author": "bunmi alao",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
