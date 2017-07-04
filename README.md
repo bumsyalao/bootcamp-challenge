@@ -1,3 +1,3 @@
 # bootcamp-challenge
-- Function to get prime number from n numbers
+- Function to get prime numbers from n numbers
 - Test cases to test function
